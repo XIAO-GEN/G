@@ -1,6 +1,6 @@
 import random
 
-def choose_reply()
+def choose_reply():
     replies = ["祝你幸福，小可爱", "世界很大，不要浪费时间了", "玩游戏吗", "你无聊吗"]
     return random.choice(replies)
 
